@@ -8,7 +8,10 @@
 
 <p>The platform is designed to scale across diverse educational contexts, from K-12 classrooms to corporate training environments. It represents a significant advancement in educational technology by moving beyond static learning management systems to create dynamic, responsive learning ecosystems that evolve with each student's progress.</p>
 
-<img width="592" height="304" alt="image" src="https://github.com/user-attachments/assets/4420a63a-3b0d-4f0b-9628-32ad294b830e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4420a63a-3b0d-4f0b-9628-32ad294b830e" alt="EduAdapt AI System Overview" />
+</p>
+
 
 
 <h2>System Architecture</h2>
