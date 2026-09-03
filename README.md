@@ -411,21 +411,13 @@ eduadapt-ai/
 
 <p>This project builds upon foundational research in educational technology and adaptive learning:</p>
 
-<ul>
-  <li>The educational data mining and learning analytics research community</li>
-  <li>Pioneering work in knowledge tracing and student modeling from Carnegie Mellon University</li>
-  <li>Open-source educational technology projects that inspired the architecture</li>
-  <li>Research institutions advancing reinforcement learning in educational contexts</li>
-  <li>Educational partners who provided validation data and real-world testing scenarios</li>
-</ul>
-
 <br>
 
 <h2 align="center">✨ Author</h2>
 
 <p align="center">
-  <b>M Wasif Anwar</b><br>
-  <i>AI/ML Engineer | Effixly AI</i>
+  <b>Manish Patil</b><br>
+  <i>AI/ML Engineer</i>
 </p>
 
 <p align="center">
