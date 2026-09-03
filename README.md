@@ -429,16 +429,13 @@ eduadapt-ai/
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mwasifanwar" target="_blank">
+  <a href="https://www.linkedin.com/in/manish-patil-4a440029a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:wasifsdk@gmail.com">
+  <a href="mailto:mp8449729@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://mwasif.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome" alt="Website">
-  </a>
-  <a href="https://github.com/mwasifanwar" target="_blank">
+  <a href="https://github.com/Manish-Patil33" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
