@@ -22,3 +22,6 @@ ENV/
 
 # Node (if any)
 node_modules/
+
+# Local Netlify folder
+.netlify
